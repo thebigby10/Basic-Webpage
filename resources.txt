@@ -2,3 +2,5 @@ HTML
 	https://www.youtube.com/watch?v=UB1O30fR-EE&t=152s
 CSS
 	https://www.youtube.com/watch?v=yfoY53QXEnI
+HUGO
+	https://www.youtube.com/watch?v=ZFL09qhKi5I
